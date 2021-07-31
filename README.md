@@ -1,3 +1,14 @@
+# Description-
+This project is a minimal clone of youtube 
+using Youtube Api to fetch data from search terms gotten form users.
+
+UI bootstrapped with Semantic Ui
+
+Default search term initiated with "React" as the keyword
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
