@@ -11,9 +11,9 @@ import "./App.css";
 export class App extends Component {
   state = { videos: [], selectedVideo: null };
 
-  // componentDidMount() {
-  //   this.onSearchSubmitHanlder("Reactjs");
-  // }
+  componentDidMount() {
+    this.onSearchSubmitHanlder("Reactjs");
+  }
 
   onSearchSubmitHanlder = async (searchTerm) => {
     const response = await youtube.get("/search", {
