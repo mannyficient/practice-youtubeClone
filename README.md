@@ -4,6 +4,8 @@ using Youtube Api to fetch data from search terms gotten form users.
 
 UI bootstrapped with Semantic Ui
 
+Default search term initiated with "React" as the keyword
+
 
 
 
